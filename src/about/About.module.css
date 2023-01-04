@@ -1,0 +1,31 @@
+.im{
+    height: 20vh;
+    width: 20vh;
+}
+.para{
+    display: flex;
+    margin-left: 2vh;
+}
+p{
+    margin: 2vh;
+}
+.outer{
+    padding: 30px;
+}
+.box{
+    display: flex;
+    justify-items: flex-end;
+    align-items: center;
+    padding-left: 20vh;
+}
+.dv{
+    background-color: rgb(109, 139, 240);
+    border: 1px solid black;
+    padding: 3vh;
+    height: 30vh;
+    width: 32vh;
+    margin-left: 1vh;
+}
+span{
+    color: rgb(109, 139, 240);
+}

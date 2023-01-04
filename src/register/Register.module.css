@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(4, 86, 138);
+}
+.outer{
+    margin: 25vh;
+    background-color: white;
+    height: 20vh;
+    width: 60vh;
+    padding: 10vh;
+    padding-left: 20vh;
+
+}
+.email{
+    width: 80%;
+}
+.user{
+    width: 80%;
+
+}
+.pass{
+    width: 80%;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin: 5vh;
+    
+}
+
+button{
+    width: 15vh;
+    height: 5vh;
+    background-color: rgb(15, 182, 219);
+
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+

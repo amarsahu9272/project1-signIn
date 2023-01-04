@@ -1,0 +1,30 @@
+
+/* body{
+    background-color: rgb(4, 86, 138);
+} */
+.outer{
+    margin: 25vh;
+    background-color: white;
+    height: 30vh;
+    width: 60vh;
+    padding: 10vh;
+    padding-left: 20vh;
+
+}
+.user{
+    width: 80%;
+
+}
+.pass{
+    width: 80%;
+}
+.btn{
+    display: flex;
+    margin: 5vh;
+    
+}
+button{
+    width: 15vh;
+    height: 5vh;
+    background-color: rgb(15, 182, 219);
+}
